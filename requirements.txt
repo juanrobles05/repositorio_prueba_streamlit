@@ -4,3 +4,5 @@ tiktoken
 scikit-learn
 pandas
 numpy
+pytesseract
+Pillow
