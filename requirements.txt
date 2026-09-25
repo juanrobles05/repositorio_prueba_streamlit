@@ -1,7 +1,6 @@
-streamlit
-numpy
-scipy
-matplotlib
-pandas
-plotly
-seaborn
+streamlit==1.32.0
+groq==0.4.2
+tiktoken==0.6.0
+scikit-learn==1.4.1.post1
+pandas==2.2.1
+numpy==1.26.4
